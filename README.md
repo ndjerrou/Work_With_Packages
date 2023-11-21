@@ -1,20 +1,11 @@
-# Challenge #2
+# Node's standard modules
 
-## Création d'une application en CLI - un bloc-notes
+With nodejs compared to native JS, we can interact with the file system, which is great !
 
-1 - Votre application nodejs doit recevoir les commandes suivantes:
+Discover the fs core module of node and learn how to read/write files efficiently.
 
-- add
-- remove
-- read
-- readOne (lister une note en particulier
+We need to a closer look to the async/sync methods for an optimal use of the resources for the purpose of the application
 
-Chaque note se présente sous la forme suivante :
+We finally moove to a popular paackage yarn which allows us to build faster CLI tool.
 
-- title
-- desc
-- resolved: true/false [optionnel]
-
-2 - Vous devez sauvegarder vos notes au sein d'un fichier localement dans l'application
-
-3 - Vous devez traiter les cas où l'utilisateur utilise mal votre application
+Have fun !
